@@ -3,7 +3,7 @@
 
 I specialize in extracting high-value insights from complex, multi-dimensional datasets. With extensive experience in working with **structured and unstructured data**, I specialize in translating raw data into clear, actionable insights with measurable business impact.
 
-###👨‍💻 About me
+### 👨‍💻 About me
 * PhD in Computational Chemistry and Master's on Materials Science
 * Strong Background in building ETL Pipelines, Exploratory Data Analysis and Predictive Modeling
 * Skilled with SQL (PostgreSQL), Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly) and Tableau
