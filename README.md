@@ -26,10 +26,9 @@ I specialize in extracting high-value insights from complex, multi-dimensional d
 * **The Challenge:** Experimental material discovery is slow and resource-intensive. I used computational screening process to reduce the experimental search space.
 * **The Solution:** Utilized **High-Performance Computing (HPC)** and **Exploratory Data Analysis** to process massive datasets of atomic structures and material properties, to identify top-performing candidates.
 * **The Impact:** Streamlined the R&D pipeline, reducing the candidate pool by 90% and allowing the team to focus resources on the most promising materials.
-* **Keywords:** `ETL workflows`,` Feature Engineering`, `EDA`, `Statistical Analysis`, `Materials Science`.
+* **Keywords:** `ETL workflows`,`Feature Engineering`,`EDA`, `Statistical Analysis`, `Materials Science`.
 
 ---
-
 ### 🛠 Technical Toolkit
 
 | Category | Skills & Tools |
@@ -38,15 +37,6 @@ I specialize in extracting high-value insights from complex, multi-dimensional d
 | **Programming** | **Python** (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, Bash Scripting |
 | **Specialized Tech** | HPC Management (SLURM/PBS), Chemistry Software Proficiency, Materials Data Mining |
 | **Business Impact** | Data Health Assessment, Inventory Analysis, Translating Tech Specs to Business ROI |
-
----
-
-### 📊 My GitHub Journey
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=srinidhimula&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhimula&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 ---
 
 ### 📫 Let's Connect
