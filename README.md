@@ -6,7 +6,7 @@ I specialize in extracting high-value insights from complex, multi-dimensional d
 ### 👨‍💻 About me
 * PhD in Computational Chemistry and Master's in Materials Science
 * Strong Background in building ETL Pipelines, Exploratory Data Analysis, and Predictive Modeling
-* Skilled with SQL (PostgreSQL), Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly,) and Tableau
+* Skilled with SQL (PostgreSQL), Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly), and Tableau
 
 ---
 
