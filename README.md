@@ -1,5 +1,5 @@
 # Hi, I'm Srinidhi 👋
-### Data Scientist | Computational Chemist | Python, SQL, Business Intelligence | Materials Informatics
+### Data Analyst | Computational Chemist | Python, SQL, Business Intelligence | Materials Informatics
 
 I specialize in extracting high-value insights from complex, multi-dimensional datasets. With extensive experience in working with **structured and unstructured data**, I specialize in translating raw data into clear, actionable insights with measurable business impact.
 
