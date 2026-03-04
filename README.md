@@ -11,6 +11,9 @@ I specialize in extracting high-value insights from complex, multi-dimensional d
 ---
 
 ### 🚀 Key Projects
+#### [Retail Customer Churn & Revenue Analysis ](https://github.com/srinidhimula/retail_churn_analytics)
+*Analysis of Revenue trends for a retail company and determining customer churn rate.*
+**In Progress**
 
 #### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
 *Bridging the gap between raw market data and actionable investment insights.*
