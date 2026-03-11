@@ -28,7 +28,7 @@ I turn **complex scientific and business datasets into actionable insights** thr
 - Conducted exploratory data analysis to identify purchasing patterns and churn drivers
 
 **Tech Stack**
-`BigQuery` `dbt` `SQL` `Python` `Looker Studio` `EDA` `Customer Analytics`
+`BigQuery` `dbt` `SQL` `Looker Studio`
 
 ### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -51,7 +51,7 @@ Luxury watch market data is **highly fragmented**, making inventory decisions di
 
 **Tech Stack**
 
-`Python` `Data Cleaning` `EDA` `Market Analytics` `Tableau`
+`Python` `Tableau`
 
 
 #### [Materials Data Analytics](https://github.com/srinidhimula/Materials_Data_Analytics)
@@ -73,7 +73,7 @@ Experimental materials discovery is **slow and resource-intensive**, requiring b
 
 **Tech Stack**
 
-`ETL Pipelines` `Feature Engineering` `EDA` `HPC Workflows` `Scientific Data`
+`ETL Pipelines` `Python` `EDA` `HPC Workflows` `Scientific Data`
 
 ---
 ### 🛠 Technical Toolkit
