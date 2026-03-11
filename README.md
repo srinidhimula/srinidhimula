@@ -33,6 +33,7 @@ I turn **complex scientific and business datasets into actionable insights** thr
 ### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
 **Problem**
 Luxury watch market data is **highly fragmented**, making inventory decisions difficult for retailers and investors.
 
@@ -55,8 +56,8 @@ Luxury watch market data is **highly fragmented**, making inventory decisions di
 
 #### [Materials Data Analytics](https://github.com/srinidhimula/Materials_Data_Analytics)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-**Problem**
 
+**Problem**
 Experimental materials discovery is **slow and resource-intensive**, requiring better candidate screening.
 
 **Solution**
