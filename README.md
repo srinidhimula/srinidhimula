@@ -1,46 +1,92 @@
 # Hi, I'm Srinidhi 👋
-### Data Analyst | Computational Chemist | Python, SQL, Business Intelligence | Materials Informatics
+### Computational Chemist → Data Scientist | Materials Informatics
 
-I specialize in extracting high-value insights from complex, multi-dimensional datasets. With extensive experience in working with **structured and unstructured data**, I specialize in translating raw data into clear, actionable insights with measurable business impact.
+I turn **complex scientific and business datasets into actionable insights** through data analytics, statistical modeling, and scalable data pipelines. My work focuses on **data quality, predictive analytics, and decision-support insights**.
 
 ### 👨‍💻 About me
-* PhD in Computational Chemistry and Master's in Materials Science
-* Strong Background in building ETL Pipelines, Exploratory Data Analysis, and Predictive Modeling
-* Skilled with SQL (PostgreSQL), Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly), and Tableau
+- 🎓 PhD in **Computational Chemistry** | MSc in **Materials Science**
+- 📊 Experience transforming **large scientific and business datasets** into insights
+- ⚙️ Strong background in **ETL pipelines, EDA, and predictive modeling**
+- 🧰 Tools: **SQL, Python, dbt, BigQuery, and Looker Studio**
 
 ---
 
-### 🚀 Key Projects
-#### [Retail Customer Churn & Revenue Analysis ](https://github.com/srinidhimula/retail_churn_analytics)
-*Analysis of Revenue trends for a retail company and determining customer churn rate.*
-**In Progress**
+### 🚀 Featured Projects
 
-#### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
-*Bridging the gap between raw market data and actionable investment insights.*
+### 📊 [Retail Customer Churn & Revenue Analysis](https://github.com/srinidhimula/retail_churn_analytics)
+![BigQuery](https://img.shields.io/badge/DataWarehouse-BigQuery-blue)
+![dbt](https://img.shields.io/badge/Transformation-dbt-orange)
+![LookerStudio](https://img.shields.io/badge/Dashboard-LookerStudio-green)
 
-* **The Challenge:** Luxury watch data is notoriously fragmented. I identified a significant **data health gap** with inconsistent nomenclature and missing features data, which prevented retailers from making accurate inventory decisions.
-* **The Solution:** Engineered a Python-based cleaning pipeline to standardize 10,000+ entries and performed a comprehensive **data inventory** to map market variables.
-* **The Impact:** Quantified a 60% Data Health Gap in technical specs and identified that 21% of market volume is driven by just 0.4% of unique models, highlighting extreme saturation in the premium brand sector.
-* **Keywords:** `Data Quality`, `Market Intelligence`, `Python`, `EDA`.
+**Goal:** Understand customer purchasing behavior, revenue trends, and estimate churn rates using a modern analytics stack.
+
+**Key Work**
+
+- Built a **data transformation pipeline using dbt** to model raw transaction data into analytics-ready tables
+- Performed **SQL-based customer cohort and churn analysis in BigQuery**
+- Created **interactive dashboards in Looker Studio** to visualize revenue trends and customer retention metrics
+- Conducted exploratory data analysis to identify purchasing patterns and churn drivers
+
+**Tech Stack**
+`BigQuery` `dbt` `SQL` `Python` `Looker Studio` `EDA` `Customer Analytics`
+
+### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+**Problem**
+Luxury watch market data is **highly fragmented**, making inventory decisions difficult for retailers and investors.
+
+**Solution**
+
+- Built a **Python data cleaning pipeline** to standardize **10,000+ records**
+- Performed **data health assessment** to identify missing technical specifications
+- Conducted **market structure analysis** using EDA
+
+**Impact**
+
+- Identified **60% data health gap** in technical specifications
+- Revealed that **21% of market volume comes from only 0.4% of models**
+- Highlighted **extreme brand concentration in premium watch segments**
+
+**Tech Stack**
+
+`Python` `Data Cleaning` `EDA` `Market Analytics` `Tableau`
+
 
 #### [Materials Data Analytics](https://github.com/srinidhimula/Materials_Data_Analytics)
-*Accelerating novel material discovery through accurate data generation and statistical analysis.*
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+**Problem**
 
-* **The Challenge:** Experimental material discovery is slow and resource-intensive. I used a computational screening process to reduce the experimental search space.
-* **The Solution:** Utilized **High-Performance Computing (HPC)** and **Exploratory Data Analysis** to process massive datasets of atomic structures and material properties, to identify top-performing candidates.
-* **The Impact:** Streamlined the R&D pipeline, reducing the candidate pool by 90% and allowing the team to focus resources on the most promising materials.
-* **Keywords:** `ETL workflows`,` Feature Engineering`, `EDA`, `Statistical Analysis`, `Materials Science`.
+Experimental materials discovery is **slow and resource-intensive**, requiring better candidate screening.
+
+**Solution**
+
+- Built **high-throughput computational workflows**
+- Processed large-scale **atomic structure datasets**
+- Applied **EDA and statistical analysis** to identify promising materials
+
+**Impact**
+
+- Reduced candidate search space by **~90%**
+- Enabled **faster R&D prioritization for experimental testing**
+
+**Tech Stack**
+
+`ETL Pipelines` `Feature Engineering` `EDA` `HPC Workflows` `Scientific Data`
 
 ---
 ### 🛠 Technical Toolkit
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Data Science** | Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Feature Engineering |
-| **Programming** | **Python** (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, Bash Scripting |
-| **Specialized Tech** | HPC Management (SLURM/PBS), Chemistry Software Proficiency, Materials Data Mining |
-| **Business Impact** | Data Health Assessment, Inventory Analysis, Translating Tech Specs to Business ROI |
+| Category | Tools & Skills |
+|---|---|
+| **Data Analysis** | Exploratory Data Analysis, Statistical Analysis, Feature Engineering |
+| **Machine Learning** | Predictive Modeling, Data Preparation |
+| **Programming** | Python (Pandas, NumPy, Scikit-learn), SQL |
+| **Data Stack** | BigQuery, dbt, Data Modeling |
+| **Visualization** | Looker Studio, Tableau, Matplotlib, Seaborn, Plotly |
+| **Infrastructure** | HPC (SLURM/PBS), Bash |
+| **Domain Expertise** | Materials Data Mining, Scientific Computing |
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinidhimula/)
