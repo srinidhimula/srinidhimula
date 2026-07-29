@@ -1,93 +1,46 @@
 # Hi, I'm Srinidhi 👋
-### Computational Chemist → Data Scientist | Materials Informatics
 
-I turn **complex scientific and business datasets into actionable insights** through data analytics, statistical modeling, and scalable data pipelines. My work focuses on **data quality, predictive analytics, and decision-support insights**.
+### Data & ML Systems Builder | PhD, Computational Chemistry
+
+I build end-to-end data and ML systems, from raw ingestion to deployed models across scientific and business domains. PhD in Computational Chemistry (TU Delft), with hands-on experience building ETL pipelines, computer vision systems, and ML models from scratch.
 
 ### 👨‍💻 About me
-- 🎓 PhD in **Computational Chemistry** | MSc in **Materials Science**
-- 📊 Experience transforming **large scientific and business datasets** into insights
-- ⚙️ Strong background in **ETL pipelines, EDA, and predictive modeling**
-- 🧰 Tools: **SQL, Python, dbt, BigQuery, and Looker Studio**
+
+- 🎓 PhD, Computational Chemistry (TU Delft) | MSc, Materials Science (University of Florida)
+- 🛠️ I build things end-to-end: data pipelines, dashboards, computer vision systems, ML models
+- ⚙️ Currently building: a YOLO-based computer vision pipeline for retail analytics, and fine-tuning foundation ML interatomic potentials for materials screening
+- 🧰 Tools: Python, PyTorch, SQL, dbt, BigQuery, Tableau, Looker Studio
 
 ---
 
 ### 🚀 Featured Projects
 
-### 📊 [Retail Customer Churn & Revenue Analysis](https://github.com/srinidhimula/retail_churn_analytics)
-![BigQuery](https://img.shields.io/badge/DataWarehouse-BigQuery-blue)
-![dbt](https://img.shields.io/badge/Transformation-dbt-orange)
-![LookerStudio](https://img.shields.io/badge/Dashboard-LookerStudio-green)
-
-**Goal:** Understand customer purchasing behavior, revenue trends, and estimate churn rates using a modern analytics stack.
-
-**Key Work**
-
-- Built a **data transformation pipeline using dbt** to model raw transaction data into analytics-ready tables
-- Performed **SQL-based customer cohort and churn analysis in BigQuery**
-- Created **interactive dashboards in Looker Studio** to visualize revenue trends and customer retention metrics
-- Conducted exploratory data analysis to identify purchasing patterns and churn drivers
-
-**Tech Stack**
+**📊 [Retail Customer Churn & Revenue Analytics](https://github.com/srinidhimula/retail_churn_analytics)**
+Built a multi-layer dbt pipeline (staging → intermediate → marts) transforming 500K+ transactional records into analytics-ready tables; identified a 20% churn rate tied to 5% revenue risk.
 `BigQuery` `dbt` `SQL` `Looker Studio`
 
-### ⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+**⌚ [Luxury Watch Market: Data Health & Inventory Analysis](https://github.com/srinidhimula/Luxury_Watches_Analytics)**
+Built an end-to-end pipeline processing 200K+ records; surfaced major market concentration risk (21% of inventory tied to 0.4% model uniqueness) and data quality gaps.
+`Python` `PostgreSQL` `BigQuery` `Tableau`
 
-**Problem**
-Luxury watch market data is **highly fragmented**, making inventory decisions difficult for retailers and investors.
+**🎥 Computer Vision for Retail Analytics** *(professional project — code on company infrastructure, not linked here)*
+Built and shipped a YOLO-based object detection and tracking pipeline for retail video analytics. Shipped visitor/footfall counting to production; peak-hour traffic and heatmap generation in testing for edge deployment.
+`YOLO` `Python` `Computer Vision` `Edge Deployment`
 
-**Solution**
-
-- Built a **Python data cleaning pipeline** to standardize **10,000+ records**
-- Performed **data health assessment** to identify missing technical specifications
-- Conducted **market structure analysis** using EDA
-
-**Impact**
-
-- Identified **60% data health gap** in technical specifications
-- Revealed that **21% of market volume comes from only 0.4% of models**
-- Highlighted **extreme brand concentration in premium watch segments**
-
-**Tech Stack**
-
-`Python` `Tableau`
-
-
-#### [Materials Data Analytics](https://github.com/srinidhimula/Materials_Data_Analytics)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**Problem**
-Experimental materials discovery is **slow and resource-intensive**, requiring better candidate screening.
-
-**Solution**
-
-- Built **high-throughput computational workflows**
-- Processed large-scale **atomic structure datasets**
-- Applied **EDA and statistical analysis** to identify promising materials
-
-**Impact**
-
-- Reduced candidate search space by **~90%**
-- Enabled **faster R&D prioritization for experimental testing**
-
-**Tech Stack**
-
-`ETL Pipelines` `Python` `EDA` `HPC Workflows` `Scientific Data`
+**🧪 [Machine-Learned Interatomic Potentials for Piezoelectric MOF Screening](https://github.com/srinidhimula/mlip-mof-piezoelectric-screening)** *(in progress)*
+Applying foundation MLIPs (MACE) to predict energies and mechanical properties across 1,252 metal-organic frameworks on a single laptop benchmarked to 12.1 meV/atom MAE against in-house DFT; then combining the MLIP elastic tensor with a DFT piezoelectric stress tensor to screen for piezoelectric MOFs. Fine-tuning MACE on in-house DFT data is the current next step.
+`Python` `PyTorch` `MACE` `ASE` `pymatgen`
 
 ---
+
 ### 🛠 Technical Toolkit
 
 | Category | Tools & Skills |
 |---|---|
-| **Data Analysis** | Exploratory Data Analysis, Statistical Analysis, Feature Engineering |
-| **Machine Learning** | Predictive Modeling, Data Preparation |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn), SQL |
-| **Data Stack** | BigQuery, dbt, Data Modeling |
-| **Visualization** | Looker Studio, Tableau, Matplotlib, Seaborn, Plotly |
-| **Infrastructure** | HPC (SLURM/PBS), Bash |
-| **Domain Expertise** | Materials Data Mining, Scientific Computing |
----
+| **Data & ML** | Python (Pandas, NumPy, Scikit-learn, PyTorch), SQL, Feature Engineering, YOLO/Computer Vision, MLIPs (MACE) |
+| **Data Engineering** | BigQuery, dbt, ETL Pipelines, Data Modeling |
+| **Visualization** | Tableau, Looker Studio, Matplotlib, Seaborn, Plotly |
+| **Scientific Computing** | HPC (SLURM/PBS), Materials/Molecular Simulation |
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinidhimula/)
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/srinidhimula/)
